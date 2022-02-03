@@ -6,6 +6,7 @@ export default function UserInformation() {
     <div className="flex flex-col items-center space-y-8">
       <UserTable />
       <UserForm />
+      <h1>Superman</h1>
     </div>
   )
 }
